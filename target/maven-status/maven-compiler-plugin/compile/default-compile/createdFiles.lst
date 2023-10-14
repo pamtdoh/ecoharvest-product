@@ -1,0 +1,11 @@
+com/ecoharvest/productservice/dto/ProductRequest.class
+com/ecoharvest/productservice/model/Product.class
+com/ecoharvest/productservice/model/Product$ProductBuilder.class
+com/ecoharvest/productservice/ProductServiceApplication.class
+com/ecoharvest/productservice/service/ProductService.class
+com/ecoharvest/productservice/dto/ProductResponse.class
+com/ecoharvest/productservice/dto/ProductResponse$ProductResponseBuilder.class
+com/ecoharvest/productservice/dto/ProductRequest$ProductRequestBuilder.class
+com/ecoharvest/productservice/repository/ProductRepository.class
+com/ecoharvest/productservice/config/CorsConfig.class
+com/ecoharvest/productservice/controller/ProductController.class

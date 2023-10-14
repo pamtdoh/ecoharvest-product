@@ -1,0 +1,8 @@
+/Users/stevenrachman/Projects/ecoharvest/product-service-min/src/main/java/com/ecoharvest/productservice/ProductServiceApplication.java
+/Users/stevenrachman/Projects/ecoharvest/product-service-min/src/main/java/com/ecoharvest/productservice/repository/ProductRepository.java
+/Users/stevenrachman/Projects/ecoharvest/product-service-min/src/main/java/com/ecoharvest/productservice/model/Product.java
+/Users/stevenrachman/Projects/ecoharvest/product-service-min/src/main/java/com/ecoharvest/productservice/dto/ProductRequest.java
+/Users/stevenrachman/Projects/ecoharvest/product-service-min/src/main/java/com/ecoharvest/productservice/controller/ProductController.java
+/Users/stevenrachman/Projects/ecoharvest/product-service-min/src/main/java/com/ecoharvest/productservice/service/ProductService.java
+/Users/stevenrachman/Projects/ecoharvest/product-service-min/src/main/java/com/ecoharvest/productservice/config/CorsConfig.java
+/Users/stevenrachman/Projects/ecoharvest/product-service-min/src/main/java/com/ecoharvest/productservice/dto/ProductResponse.java
